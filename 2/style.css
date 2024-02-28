@@ -1,0 +1,13 @@
+
+html {
+    background-color: rgb(114, 114, 114);
+}
+
+#cube {
+    background-color: black;
+    border-radius: 30%;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    transition: 300ms;
+}
