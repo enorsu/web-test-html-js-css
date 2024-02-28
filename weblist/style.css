@@ -1,0 +1,35 @@
+
+.dark {
+    background-color: rgb(70, 70, 70);
+}
+
+.white-text {
+    color: white;
+    font-size: 20px;
+}
+
+
+.title-size {
+    font-size: 50px;
+}
+
+
+.centered-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.parent-container {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.click {
+    cursor: pointer;
+}
+
+.black-hover:hover {
+    background-color: rgb(0, 0, 0);
+}
+
+}
