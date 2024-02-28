@@ -1,0 +1,27 @@
+
+
+
+.centered-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.dark {
+    background-color: rgb(58, 58, 58);
+}
+
+
+.fancy-btn {
+    display: flex;
+    background-color: rgb(95, 155, 80);
+    padding: 10px 20px;
+    cursor: pointer;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    font: 20px "Arial";
+
+    transition-duration: 100ms;
+}
+

@@ -1,0 +1,24 @@
+
+.dark {
+    background-color: rgb(70, 70, 70);
+}
+
+.white-text {
+    color: white;
+}
+
+
+.title-size {
+    font-size: 50px;
+}
+
+
+.centered-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.parent-container {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
